@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editname" type="id">editname</item>
+    <item name="loginuname" type="id">loginuname</item>
+    <item name="signuname" type="id">signuname</item>
+
+</resources>
